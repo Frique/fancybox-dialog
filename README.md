@@ -9,3 +9,13 @@ For using fancybox to show alert and confirm dialogs. Convenient for projects th
 - Modal or not
 - Callbacks
 - Trigger via html element or via javascript
+- Documented source
+
+# Installation
+- Get jquery
+- Get fancybox (http://fancyapps.com/fancybox/)
+- Get the fancybox-dialog css + script
+- Use out of the box or customize as desired
+- Concatination + minification recommended
+
+# Usage
